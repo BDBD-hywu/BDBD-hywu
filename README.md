@@ -1,13 +1,13 @@
 # Best Day of Big Data에 오신 것을 환영합니다! 🌐📊
 
-저희 **Best Day of Big Data** 팀의 공식 GitHub 저장소입니다💡
+이곳은 저희 **Best Day of Big Data** 팀의 공식 GitHub 저장소입니다💡
 
 ## 팀 소개 🎉
 저희는 한양여자대학교 빅데이터과 3학년에 재
 
 ## 팀원 🌟
 
-프로젝트를 함께한 팀원들을 소개합니다:
+프로젝트를 함께한 팀원들을 소개합니다
 
 - **권유정** - PM & 시각화 구축가
 - **김세린** - 시각화 구축가 
@@ -31,7 +31,7 @@
 
 저희 프로젝트에 관심이 있으시거나 궁금한 점이 있다면 언제든지 연락 주세요!
 
-- Email : bestdayofbigdata22@gmail.com
+- E-mail : bestdayofbigdata22@gmail.com
 
 <!--
 **BDBD-hywu/BDBD-hywu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
